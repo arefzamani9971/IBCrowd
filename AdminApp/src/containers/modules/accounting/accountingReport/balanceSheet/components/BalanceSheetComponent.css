@@ -1,0 +1,79 @@
+.height-search-balance-sheet{
+  height: 200px !important;
+  overflow: inherit;
+
+}
+
+.height-for-open{
+  height: 581px !important;
+  overflow: auto !important;
+}
+.height-for-close{
+  height: 890px !important;
+  overflow: auto !important;
+}
+.marginTop100{
+  margin-top: 200px !important
+  ;
+}
+.marginTop100{
+  margin-top: 4px;
+}
+
+.disabled{
+ opacity: .4 !important;
+ cursor: not-allowed !important;
+}
+  /* height: calc(100% - 200px) !important; */
+
+#confirmDocumentation {
+  background-color: dodgerblue;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #FFF;
+  margin: 5px;
+}
+#confirmDocumentation:hover{
+  background-color: #006fff
+}
+#confirmDocumentation:disabled{
+  background-color: #1e90ff75;
+  cursor: default;
+} 
+
+.balance-sheet .height-search{
+  height: 154px !important;
+  overflow:inherit !important
+}
+
+.balance-sheet .debt-open{
+  height: calc(100% - 186px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.balance-sheet .debt-close{
+  height: calc(100% - 32px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.balance-sheet .debt-box{
+  overflow: auto;
+}
+
+.balance-sheet .assets-open{
+  height: calc(100% - 186px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.balance-sheet .assets-close{
+  height: calc(100% - 32px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.balance-sheet .assets-box{
+  overflow: auto;
+}
+
+.balance-sheet .search-btn{
+  margin-bottom: 5px !important;
+}

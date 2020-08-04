@@ -1,0 +1,8 @@
+.managed-customer-document .height-search{
+    height: 102px;
+    overflow: inherit;
+}
+
+.managed-customer-document .main-paper-container-server-open{
+    height: calc(100% - 131px) !important;
+}

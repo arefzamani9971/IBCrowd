@@ -1,0 +1,10 @@
+.header{
+   /* margin-bottom:1rem; */
+   height: 42px;
+   display: flex;
+   align-items: center;
+}
+.action-header{
+   padding-bottom: 2px !important;
+   padding-top: 3px !important;
+}

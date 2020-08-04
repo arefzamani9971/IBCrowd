@@ -1,0 +1,13 @@
+.GetOnlineTradeReport .height-search{
+    height: 102px;
+    overflow: inherit;
+}
+.GetOnlineTradeReport .height-open-grid{
+    height: 100% !important;
+    overflow: inherit;
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;  
+}
+
+.GetOnlineTradeReport .main-paper-container-server-open{
+    height: calc(100% - 131px) !important;
+}

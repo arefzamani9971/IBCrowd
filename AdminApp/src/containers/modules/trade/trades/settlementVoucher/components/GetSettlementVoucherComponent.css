@@ -1,0 +1,31 @@
+.settlement-voucher .height-search{
+    height: 101px;
+    overflow: inherit;
+}
+
+.settlement-voucher .height-open-grid {
+    height: calc(100% - 150px);
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  
+  .settlement-voucher .height-open-grid .k-auto-scrollable {
+    height: calc(100% - 105px) !important;
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+
+  .settlement-voucher .height-content-grid {
+    height: calc(100% - 45px) !important;
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  
+  .settlement-voucher .height-content-grid .k-auto-scrollable {
+    height: calc(100% - 109px) !important;
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+
+
+  .settlement-voucher .k-grid-content {
+    height: calc(100% - 130px) !important;
+  }
+
+  

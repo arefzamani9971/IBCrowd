@@ -1,0 +1,14 @@
+.main-paper-container-server {
+    position: relative;
+    z-index: 2;
+    color: black;
+    /* height: 48rem !important; */
+    height: calc(100% - 29px);
+    overflow-x: hidden;
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.add-grid .k-header.k-grid-toolbar {
+    display: flex;
+    justify-content: flex-end;
+}

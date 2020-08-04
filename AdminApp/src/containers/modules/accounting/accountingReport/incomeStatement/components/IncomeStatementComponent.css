@@ -1,0 +1,96 @@
+.height-search-balance-sheet{
+  height: 200px;
+  overflow: inherit;
+
+}
+.table-row{
+  height: 15px !important;
+
+}
+.income-height-for-open{
+  height: 200px !important;
+  overflow: auto !important;
+}
+.income-height-for-close{
+  height: 300px !important;
+  overflow: auto !important;
+}
+.income-paper-height-for-open{
+  height: 200px !important;
+}
+.income-paper-height-for-close{
+  height: 350px !important;
+  
+}
+.income-marginTop100{
+  margin-top: 190px !important
+  ;
+}
+.income-marginTop4{
+  margin-top: 0px !important;
+}
+
+
+.disabled{
+ opacity: .4 !important;
+ cursor: not-allowed !important;
+}
+  /* height: calc(100% - 200px) !important; */
+
+#confirmDocumentation {
+  background-color: dodgerblue;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #FFF;
+  margin: 5px;
+}
+#confirmDocumentation:hover{
+  background-color: #006fff
+}
+#confirmDocumentation:disabled{
+  background-color: #1e90ff75;
+  cursor: default;
+} 
+
+.income-statement {
+  height: calc(100% - 15px) !important;
+}
+
+.income-statement .height-search{
+  height: 154px !important;
+  overflow:inherit !important
+}
+
+.income-statement .income-box{
+  overflow: auto;
+}
+
+.income-statement .income{
+  height: 50% !important
+}
+
+.income-statement .cost-box{
+  overflow: auto;
+}
+
+.income-statement .cost{
+  height: 50% !important
+}
+
+.income-statement-benefit.benefit{
+  height: 28px !important
+}
+
+.income-statement .bottom-box-open{
+  height: calc(100% - 194px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.income-statement .bottom-box-close{
+  height: calc(100% - 40px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.income-statement .search-btn{
+  margin-bottom: 5px !important;
+}

@@ -1,0 +1,25 @@
+{
+    "bRuleCode":1000,
+    "message":"عملیات با موفقیت انجام شد.",
+    "pageSize":0,
+    "result":[
+        {
+            "id":1,
+            "symbol":"اخابر",
+            "title":"مخابرات ایران",
+            "csdSymbol":"",
+            "Isin":"IR01MKBT0001",
+            "status":"فعال",
+            "accountingType":"حسابداری",
+            "productType":"سهم",
+            "etfType":"ثابت",
+            "stockExchangeId":"بورس",
+            "settlementDay":"2 روزه",
+            "sectorId":"فراورده های نفتی، کوک ، سوخت هسته ای",
+            "validForm":"1399/02/10",
+            "validTo":"1399/02/31"
+        }
+    ],
+    "totalRecords":1
+
+}

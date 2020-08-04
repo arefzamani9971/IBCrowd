@@ -1,0 +1,8 @@
+.list-parties .height-search{
+    height: 252px;
+    overflow: inherit;
+}
+
+.list-parties .main-paper-container-server-open{
+    height: calc(100% - 281px) !important;
+}

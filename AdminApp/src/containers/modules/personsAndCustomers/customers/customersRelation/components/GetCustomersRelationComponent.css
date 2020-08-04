@@ -1,0 +1,8 @@
+.customer-relation .height-search{
+    height: 152px;
+    overflow: inherit;
+}
+
+.customer-relation .main-paper-container-server-open{
+    height: calc(100% - 181px) !important;
+}

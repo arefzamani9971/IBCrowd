@@ -1,0 +1,23 @@
+.manage-account-codes-relation .height-search {
+    height: 201px !important;
+}
+
+.manage-account-codes-relation .height-content-grid {
+    height: calc(100% - 41px) !important;
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.manage-account-codes-relation .height-content-grid .k-auto-scrollable {
+    height: calc(100% - 106px) !important;
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.manage-account-codes-relation .height-open-grid {
+    height: calc(100% - 258px) !important;
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.manage-account-codes-relation .height-open-grid .k-auto-scrollable {
+    height: calc(100% - 90px) !important;
+    transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}

@@ -1,0 +1,8 @@
+.customer-role .height-search{
+    height: 246px;
+    overflow: inherit;
+}
+
+.customer-role .main-paper-container-server-open{
+    height: calc(100% - 275px) !important;
+}

@@ -1,0 +1,8 @@
+.bonds-list .height-search {
+    height: 114px;
+    overflow: inherit;
+}
+
+.bonds-list .main-paper-container-server-open {
+    height: calc(100% - 147px) !important;
+}

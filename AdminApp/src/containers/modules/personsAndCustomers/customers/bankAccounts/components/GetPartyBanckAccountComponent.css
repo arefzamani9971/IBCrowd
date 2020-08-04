@@ -1,0 +1,8 @@
+.party-bank-account-managed .height-search{
+    height: 201px;
+    overflow: inherit;
+}
+
+.party-bank-account-managed .main-paper-container-server-open{
+    height: calc(100% - 230px) !important;
+}

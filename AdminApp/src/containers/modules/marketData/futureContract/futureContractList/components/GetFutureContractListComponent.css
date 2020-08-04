@@ -1,0 +1,8 @@
+.future-contract-list .height-search {
+    height: 114px;
+    overflow: inherit;
+}
+
+.future-contract-list .main-paper-container-server-open {
+    height: calc(100% - 147px) !important;
+}

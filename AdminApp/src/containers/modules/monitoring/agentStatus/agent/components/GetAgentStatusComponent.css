@@ -1,0 +1,6 @@
+.agent-status-upper-table .main-paper-container-server-open {
+    height: calc(50% - 182px) !important;
+}
+.agent-status-lower-table .main-paper-container-server-open {
+    height: calc(50%) !important;
+}

@@ -1,0 +1,38 @@
+.general-ledger-balance .height-search {
+  height: 236px !important;
+}
+.general-ledger-balance .height-content-grid{
+  height: calc(100% - 149px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;  
+}
+
+.general-ledger-balance .height-content-grid .k-auto-scrollable {
+  height: calc(100% - 22px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.general-ledger-balance .height-open-grid {
+  height: calc(100% - 309px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.general-ledger-balance .height-open-grid .k-auto-scrollable{
+  height: calc(100% - 98px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;  
+}
+ .general-account-book{
+   color: #039be5;
+   cursor: pointer;
+   text-align: center;
+ }
+ /* #general-ledger-balance .k-grid-content ,
+ #general-ledger-balance .k-grid-footer{
+     font-size: 12px;
+ } */
+
+ .general-ledger-balance .k-rtl .k-grid .k-grid-footer{
+   height: auto !important;
+ }
+
+ .general-ledger-balance .k-grid-footer tbody tr td div:first-child {
+  margin-bottom: 0 !important;
+}

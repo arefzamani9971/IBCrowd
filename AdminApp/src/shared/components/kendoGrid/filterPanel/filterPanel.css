@@ -1,0 +1,19 @@
+.search-header.height-filter-search {
+    height: 32px !important;
+}
+
+.search-header>div {
+    height: 33px !important;
+}
+
+.search-header .icon-search {
+    margin-top: 9px !important;
+}
+
+.search-header svg {
+    top: 7px !important;
+}
+
+.search-header h6 {
+    font-size: 0.875rem;
+}

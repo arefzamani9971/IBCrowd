@@ -1,0 +1,8 @@
+.managed-customer-contact .height-search{
+    height: 201px;
+    overflow: inherit;
+}
+
+.managed-customer-contact .main-paper-container-server-open{
+    height: calc(100% - 230px) !important;
+}

@@ -1,0 +1,19 @@
+.observe-wage-financial-tools{
+    height: 100% !important;
+    overflow-y: scroll !important;
+    overflow-x: hidden !important;
+
+}
+
+
+.observe-wage-financial-tools .kadr{
+    background-color: #f1f1f1!important;
+    border-right:none !important;
+}
+
+.observe-wage-financial-tools.height-detail{
+    overflow: hidden !important;
+
+}
+
+

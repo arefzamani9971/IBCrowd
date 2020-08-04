@@ -1,0 +1,9 @@
+.dividend-timing .height-search{
+    height: 161px;;
+    overflow:inherit !important
+}
+
+
+.dividend-timing .main-paper-container-server-open {
+    height: calc(100% - 194px) !important;
+}

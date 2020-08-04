@@ -1,0 +1,8 @@
+.inCompletePartyList .height-search{
+    height: 202px;
+    overflow: inherit;
+}
+
+.inCompletePartyList .main-paper-container-server-open{
+    height: calc(100% - 231px) !important;
+}

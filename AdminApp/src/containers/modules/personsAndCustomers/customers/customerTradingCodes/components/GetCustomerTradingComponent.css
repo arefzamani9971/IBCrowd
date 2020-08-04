@@ -1,0 +1,8 @@
+.customer-trading .height-search{
+    height: 103px;
+    overflow: inherit;
+}
+
+.customer-trading .main-paper-container-server-open{
+    height: calc(100% - 132px) !important;
+}

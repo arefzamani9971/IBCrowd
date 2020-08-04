@@ -1,0 +1,14 @@
+.edit-management-symbol-trade .kadr{
+    background-color: #f1f1f1!important;
+    border-right:none !important;
+}
+
+.edit-management-symbol-trade .action-base{
+    bottom: -26px !important;
+}
+
+.edit-management-symbol-trade .chackbox-position{
+    position: relative;
+    bottom: -26px;
+    right: 34px;
+}

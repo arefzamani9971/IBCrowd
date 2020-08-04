@@ -1,0 +1,17 @@
+.observe-management-symbol-trade{
+    height: 100% !important;
+    overflow-y: scroll !important;
+    overflow-x: hidden !important;
+
+}
+
+
+.observe-management-symbol-trade .kadr{
+    background-color: #f1f1f1!important;
+    border-right:none !important;
+}
+
+.observe-management-symbol-trade.height-detail{
+    overflow: hidden !important;
+
+}

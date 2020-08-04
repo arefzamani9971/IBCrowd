@@ -1,0 +1,5 @@
+.fieldsetBorder{
+    border: 2px solid rgba(128, 128, 128, 0.26) !important;
+    border-radius: 11px !important;
+    margin: 10px;
+}

@@ -1,0 +1,8 @@
+.index-page .height-search {
+    height: 153px;
+    overflow: inherit;
+}
+
+.index-page .main-paper-container-server-open {
+    height: calc(100% - 182px) !important;
+}

@@ -1,0 +1,17 @@
+/* .managed-customer-contact-tab .height-search{
+    height: 100px;
+    overflow: inherit;
+/* } */
+ /* .managed-customer-contact-tab .k-grid-content{
+    height: 200px !important;
+} */
+
+.managed-customer-contact-tab {
+    height: calc(100% - 25px) !important;
+}  
+
+.managed-legal-customer-contact-tab .main-paper-container-server{
+    height: 100%;
+    padding-bottom: 5px;
+
+}

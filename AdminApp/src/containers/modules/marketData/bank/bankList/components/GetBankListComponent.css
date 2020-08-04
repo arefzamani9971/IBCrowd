@@ -1,0 +1,8 @@
+.banks-list .height-search {
+    height: 112px;
+    overflow: inherit;
+}
+
+.banks-list .main-paper-container-server-open {
+    height: calc(100% - 145px) !important;
+}

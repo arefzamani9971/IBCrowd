@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "folders": [],
+  "settings": {},
+  "editor.formatOnSave": false,
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  }
+}

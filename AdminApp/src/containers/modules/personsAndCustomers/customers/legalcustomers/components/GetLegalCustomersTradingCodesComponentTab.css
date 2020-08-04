@@ -1,0 +1,25 @@
+/* .customer-legal-trading-tab .height-search{
+    height: 125px;
+    overflow: inherit;
+} */
+/* 
+.customer-trading-tab .height-search .heightClosePanel{
+    height: 80% !important;
+} */ 
+/* .customer-legal-trading-tab .height-open-grid{
+    height: calc(100% - 200px) !important;
+    overflow: inherit;
+}
+.customer-legal-trading-tab .heightClosePanel{
+    height: 90%;
+} */
+.customer-legal-trading-tab .main-height {
+    height: 860px !important;
+    /* height: calc(100% - 25px) !important; */
+}
+
+.customer-legal-trading-tab .main-paper-container-server{
+    height: 100%;
+    padding-bottom: 5px;
+
+}

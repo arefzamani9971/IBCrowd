@@ -1,0 +1,8 @@
+.symbol-change .height-search {
+    height: 161px;
+    overflow: inherit;
+}
+
+.symbol-change .main-paper-container-server-open {
+    height: calc(100% - 145px) !important;
+}

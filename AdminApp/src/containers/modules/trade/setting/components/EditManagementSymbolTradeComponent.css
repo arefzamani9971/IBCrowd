@@ -1,0 +1,20 @@
+
+
+.management-symbol-exchange.main-paper-container{
+    height: calc(100% - 5px) !important;
+}
+
+.management-symbol-exchange .main-paper-container-server{
+    height: 100% !important;
+} 
+
+.management-symbol-exchange .height-search{
+    height: 185px !important;
+    overflow: inherit;
+}
+
+.management-symbol-exchange .chackbox-position{
+    position: relative;
+    bottom: -26px;
+    right: 34px;
+}

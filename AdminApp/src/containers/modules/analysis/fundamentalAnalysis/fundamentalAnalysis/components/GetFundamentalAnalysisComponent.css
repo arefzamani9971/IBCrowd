@@ -1,0 +1,14 @@
+.fundamental-analysis .height-search {
+    height: 114px;
+    overflow: inherit;
+}
+
+.fundamental-analysis .main-paper-container-server-open {
+    height: calc(100% - 147px) !important;
+}
+
+.fundamental-analysis .bg-blue-1{
+    background-color:#2196f3 ;
+    border: none;
+
+}

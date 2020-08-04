@@ -1,0 +1,8 @@
+.holiday-page .height-search {
+    height: 112px;
+    overflow: inherit;
+}
+
+.holiday-page .main-paper-container-server-open {
+    height: calc(100% - 145px) !important;
+}

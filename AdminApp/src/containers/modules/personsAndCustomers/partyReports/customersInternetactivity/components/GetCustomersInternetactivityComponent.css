@@ -1,0 +1,8 @@
+.customersInternetactivity .height-search{
+    height: 153px;
+    overflow: inherit;
+}
+
+.customersInternetactivity .main-paper-container-server-open{
+    height: calc(100% - 182px) !important;
+}

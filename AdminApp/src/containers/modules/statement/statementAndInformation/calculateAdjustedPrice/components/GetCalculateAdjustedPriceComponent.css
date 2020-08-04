@@ -1,0 +1,8 @@
+.chequeBook .height-search {
+    height: 153px;
+    overflow: inherit;
+}
+
+.chequeBook .main-paper-container-server-open {
+    height: calc(100% - 182px) !important;
+}

@@ -1,0 +1,8 @@
+.customer-fee .height-search{
+    height: 204px;
+    overflow: inherit;
+}
+
+.customer-fee .main-paper-container-server-open{
+    height: calc(100% - 233px) !important;
+}

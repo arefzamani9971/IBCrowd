@@ -1,0 +1,49 @@
+
+/* style new voucher row */
+
+ .voucher-td {
+    position: relative;
+    font-size: 11px !important;
+
+  }  
+  .add-voucher td{
+    font-size: 11px !important;
+  
+  }
+ 
+  .add-voucher td div label+div,label+span input {
+    /* padding:14px 10px !important;   */
+    font-size: 13px !important;
+  }
+
+  .add-voucher td div label+div{
+    top:5px;
+  }
+  
+  .add-voucher td div div div label+span {
+  
+  width: 155px !important;
+
+  }
+  .add-voucher td div div+span i {
+      top:40% !important;
+      left:2% !important;
+
+  }
+
+  .add-voucher td div label+div fieldset+input{
+    /* padding:0px 0px !important;   */
+    font-size: 11px !important;
+
+  }
+
+  .add-voucher td button{
+    font-size: 11px !important;
+
+  }
+    
+  .add-voucher table thead th a{
+      font-size: 12px !important;
+  }
+
+ 

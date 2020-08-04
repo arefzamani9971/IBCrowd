@@ -1,0 +1,77 @@
+.voucher-master .height-search {
+  height: 150px;
+  overflow: inherit;
+}
+
+.voucher-master .height-open-grid {
+  height: calc(100% - 211px);
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.voucher-master .height-open-grid .k-auto-scrollable {
+  height: calc(100% - 142px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.voucher-master .height-content-grid {
+  height: calc(100% - 47px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.voucher-master .height-content-grid .k-auto-scrollable {
+  height: calc(100% - 156px) !important;
+  transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+/* .voucher-master .k-grid-header {
+  height: 32px;
+} */
+/* .voucher-master .k-grid-footer {
+  height: 70px;
+} */
+
+/* .voucher-master .k-grid-footer tbody tr td div {
+  text-align: left !important;
+} */
+.voucher-master .k-grid-content {
+  height: calc(100% - 189px) !important;
+}
+.disabled {
+  opacity: 0.4 !important;
+  cursor: not-allowed !important;
+}
+/* height: calc(100% - 200px) !important; */
+
+.main-btns {
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #fff;
+  margin: 5px;
+  cursor: default;
+}
+
+.k-grid-content .k-grid-norecords {
+  width: 500px;
+  display: block !important;
+}
+.icon-relation {
+  color: #388e3c;
+  top: 36px;
+  left: 12px;
+  position: absolute;
+}
+.add-voucher .k-grid{
+  height: calc(100% - 55px);
+}
+
+@media (min-height: 500px) and (max-height: 700px) {
+  .voucher-height {
+    height: 30rem;
+  }
+  .add-voucher table tbody tr > td input,
+  .add-voucher table tbody tr > td textarea {
+    font-size: 10px;
+  }
+}
+
+  
